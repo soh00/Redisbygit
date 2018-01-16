@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println(jedis);
 	int i=0;
 	System.out.println(i);
+	System.out.println("hello");
 }
 }
